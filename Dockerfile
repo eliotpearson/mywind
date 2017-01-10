@@ -1,5 +1,5 @@
 FROM alpine:latest
-MAINTAINER EliotPearson <eliot.pearson@gmail.com>
+MAINTAINER Eliot Pearson <eliot.pearson@gmail.com>
 
 WORKDIR /app
 VOLUME /app
